@@ -1,1 +1,1 @@
-# Customer Lİfe Time Value
+# Customer Life Time Value
